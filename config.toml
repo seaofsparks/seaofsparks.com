@@ -1,0 +1,4 @@
+baseURL = 'https://seaofsparks.net/'
+languageCode = 'en-us'
+title = 'Sea of Sparks'
+theme = 'ananke'
