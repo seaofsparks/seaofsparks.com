@@ -1,5 +1,5 @@
 baseURL = 'https://seaofsparks.net/'
 languageCode = 'en-us'
 title = 'Sea of Sparks'
-theme = 'ananke'
+theme = 'lightbi-hugo'
 googleAnalytics = 'G-J10MZYKNQT'
