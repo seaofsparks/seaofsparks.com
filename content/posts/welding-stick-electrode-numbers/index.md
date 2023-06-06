@@ -6,6 +6,7 @@ tags:
 - stick
 - SMAW
 - explanation
+author: Simon
 ---
 If you've picked up a pack of welding electrodes (or sticks) you've probably seen the numbers that are written on the packaging and on the electrodes. We all have our favorite numbers for specific welds and materials but what do those numbers actually mean? Do all numbers work in all machines? Can you weld everything with 6013? Let's dig in.
 
